@@ -1,2 +1,1 @@
-# alu-shell
-Learning shell scripting
+alu-shell
