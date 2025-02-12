@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list | awk -k '!seen[$1]'
+sort | uniq -u
