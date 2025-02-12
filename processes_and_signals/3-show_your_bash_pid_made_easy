@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Use pgrep to find processes by name
+
+pgrep -l bash
